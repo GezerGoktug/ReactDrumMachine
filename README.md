@@ -1,4 +1,4 @@
-# Markdown Previewer
+# React Drum Machine
 
 **<p>In this project, I made a simple drum machine application with React that you can control with keyboard keys.</p>**
 
